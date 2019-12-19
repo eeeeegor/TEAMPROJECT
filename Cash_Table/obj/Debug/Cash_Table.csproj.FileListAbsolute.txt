@@ -1,0 +1,11 @@
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\bin\Debug\Cash_Table.exe.config
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\bin\Debug\Cash_Table.exe
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\bin\Debug\Cash_Table.pdb
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.csprojAssemblyReference.cache
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.Form1.resources
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.Properties.Resources.resources
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.csproj.GenerateResource.cache
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.exe
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.pdb
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.main_menu.resources
+C:\Users\Глеб\source\repos\Cash_Table\Cash_Table\obj\Debug\Cash_Table.table_menu.resources

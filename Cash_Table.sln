@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cash_Table", "Cash_Table\Cash_Table.csproj", "{20687506-E643-4777-9ACC-DF63A02C5DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20687506-E643-4777-9ACC-DF63A02C5DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20687506-E643-4777-9ACC-DF63A02C5DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20687506-E643-4777-9ACC-DF63A02C5DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20687506-E643-4777-9ACC-DF63A02C5DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C10BCB4-70D8-414E-A1E1-0F913682F271}
+	EndGlobalSection
+EndGlobal
