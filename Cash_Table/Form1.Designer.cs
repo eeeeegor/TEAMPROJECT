@@ -46,9 +46,10 @@
             // 
             // Enter
             // 
-            this.Enter.Location = new System.Drawing.Point(509, 674);
+            this.Enter.Location = new System.Drawing.Point(254, 350);
+            this.Enter.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Enter.Name = "Enter";
-            this.Enter.Size = new System.Drawing.Size(146, 79);
+            this.Enter.Size = new System.Drawing.Size(73, 41);
             this.Enter.TabIndex = 0;
             this.Enter.Text = "Enter";
             this.Enter.UseVisualStyleBackColor = true;
@@ -56,9 +57,10 @@
             // 
             // zero
             // 
-            this.zero.Location = new System.Drawing.Point(661, 674);
+            this.zero.Location = new System.Drawing.Point(330, 350);
+            this.zero.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.zero.Name = "zero";
-            this.zero.Size = new System.Drawing.Size(146, 79);
+            this.zero.Size = new System.Drawing.Size(73, 41);
             this.zero.TabIndex = 1;
             this.zero.Text = "0";
             this.zero.UseVisualStyleBackColor = true;
@@ -66,9 +68,10 @@
             // 
             // clear
             // 
-            this.clear.Location = new System.Drawing.Point(813, 674);
+            this.clear.Location = new System.Drawing.Point(406, 350);
+            this.clear.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.clear.Name = "clear";
-            this.clear.Size = new System.Drawing.Size(146, 79);
+            this.clear.Size = new System.Drawing.Size(73, 41);
             this.clear.TabIndex = 2;
             this.clear.Text = "C";
             this.clear.UseVisualStyleBackColor = true;
@@ -76,9 +79,10 @@
             // 
             // seven
             // 
-            this.seven.Location = new System.Drawing.Point(509, 589);
+            this.seven.Location = new System.Drawing.Point(254, 306);
+            this.seven.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.seven.Name = "seven";
-            this.seven.Size = new System.Drawing.Size(146, 79);
+            this.seven.Size = new System.Drawing.Size(73, 41);
             this.seven.TabIndex = 3;
             this.seven.Text = "7";
             this.seven.UseVisualStyleBackColor = true;
@@ -86,9 +90,10 @@
             // 
             // eight
             // 
-            this.eight.Location = new System.Drawing.Point(661, 589);
+            this.eight.Location = new System.Drawing.Point(330, 306);
+            this.eight.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.eight.Name = "eight";
-            this.eight.Size = new System.Drawing.Size(146, 79);
+            this.eight.Size = new System.Drawing.Size(73, 41);
             this.eight.TabIndex = 4;
             this.eight.Text = "8";
             this.eight.UseVisualStyleBackColor = true;
@@ -96,9 +101,10 @@
             // 
             // three
             // 
-            this.three.Location = new System.Drawing.Point(813, 419);
+            this.three.Location = new System.Drawing.Point(406, 218);
+            this.three.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.three.Name = "three";
-            this.three.Size = new System.Drawing.Size(146, 79);
+            this.three.Size = new System.Drawing.Size(73, 41);
             this.three.TabIndex = 11;
             this.three.Text = "3";
             this.three.UseVisualStyleBackColor = true;
@@ -106,9 +112,10 @@
             // 
             // four
             // 
-            this.four.Location = new System.Drawing.Point(509, 504);
+            this.four.Location = new System.Drawing.Point(254, 262);
+            this.four.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.four.Name = "four";
-            this.four.Size = new System.Drawing.Size(146, 79);
+            this.four.Size = new System.Drawing.Size(73, 41);
             this.four.TabIndex = 6;
             this.four.Text = "4";
             this.four.UseVisualStyleBackColor = true;
@@ -116,9 +123,10 @@
             // 
             // five
             // 
-            this.five.Location = new System.Drawing.Point(661, 504);
+            this.five.Location = new System.Drawing.Point(330, 262);
+            this.five.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.five.Name = "five";
-            this.five.Size = new System.Drawing.Size(146, 79);
+            this.five.Size = new System.Drawing.Size(73, 41);
             this.five.TabIndex = 7;
             this.five.Text = "5";
             this.five.UseVisualStyleBackColor = true;
@@ -126,9 +134,10 @@
             // 
             // six
             // 
-            this.six.Location = new System.Drawing.Point(813, 504);
+            this.six.Location = new System.Drawing.Point(406, 262);
+            this.six.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.six.Name = "six";
-            this.six.Size = new System.Drawing.Size(146, 79);
+            this.six.Size = new System.Drawing.Size(73, 41);
             this.six.TabIndex = 8;
             this.six.Text = "6";
             this.six.UseVisualStyleBackColor = true;
@@ -136,9 +145,10 @@
             // 
             // one
             // 
-            this.one.Location = new System.Drawing.Point(509, 419);
+            this.one.Location = new System.Drawing.Point(254, 218);
+            this.one.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.one.Name = "one";
-            this.one.Size = new System.Drawing.Size(146, 79);
+            this.one.Size = new System.Drawing.Size(73, 41);
             this.one.TabIndex = 9;
             this.one.Text = "1";
             this.one.UseVisualStyleBackColor = true;
@@ -146,9 +156,10 @@
             // 
             // two
             // 
-            this.two.Location = new System.Drawing.Point(661, 419);
+            this.two.Location = new System.Drawing.Point(330, 218);
+            this.two.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.two.Name = "two";
-            this.two.Size = new System.Drawing.Size(146, 79);
+            this.two.Size = new System.Drawing.Size(73, 41);
             this.two.TabIndex = 10;
             this.two.Text = "2";
             this.two.UseVisualStyleBackColor = true;
@@ -156,9 +167,10 @@
             // 
             // nine
             // 
-            this.nine.Location = new System.Drawing.Point(813, 589);
+            this.nine.Location = new System.Drawing.Point(406, 306);
+            this.nine.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nine.Name = "nine";
-            this.nine.Size = new System.Drawing.Size(146, 79);
+            this.nine.Size = new System.Drawing.Size(73, 41);
             this.nine.TabIndex = 5;
             this.nine.Text = "9";
             this.nine.UseVisualStyleBackColor = true;
@@ -169,10 +181,11 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Medium", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(351, 168);
+            this.label1.Location = new System.Drawing.Point(176, 87);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(792, 61);
+            this.label1.Size = new System.Drawing.Size(400, 30);
             this.label1.TabIndex = 12;
             this.label1.Text = "Для входа в систему введите пароль";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -181,17 +194,18 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(700, 300);
+            this.label2.Location = new System.Drawing.Point(350, 156);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(0, 25);
+            this.label2.Size = new System.Drawing.Size(0, 13);
             this.label2.TabIndex = 13;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSkyBlue;
-            this.ClientSize = new System.Drawing.Size(1474, 929);
+            this.ClientSize = new System.Drawing.Size(742, 500);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.three);
@@ -206,9 +220,10 @@
             this.Controls.Add(this.clear);
             this.Controls.Add(this.zero);
             this.Controls.Add(this.Enter);
-            this.MaximumSize = new System.Drawing.Size(1500, 1000);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.MaximumSize = new System.Drawing.Size(758, 539);
             this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(1500, 1000);
+            this.MinimumSize = new System.Drawing.Size(758, 539);
             this.Name = "Form1";
             this.Text = "Cash Table";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -218,7 +233,6 @@
         }
 
         #endregion
-
         private System.Windows.Forms.Button Enter;
         private System.Windows.Forms.Button zero;
         private System.Windows.Forms.Button clear;

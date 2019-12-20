@@ -16,8 +16,8 @@ namespace Cash_Table
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new main_menu());
-
+            main_menu main = new main_menu();
+            Application.Run(main);
         }
     }
 }
